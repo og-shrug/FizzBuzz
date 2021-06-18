@@ -1,0 +1,2 @@
+# FizzBuzz
+FizzBuzz but automated
